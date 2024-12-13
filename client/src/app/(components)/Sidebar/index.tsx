@@ -5,7 +5,7 @@ import { Archive, CircleDollarSign, Clipboard, Layout, LucideIcon, Menu, Sliders
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import React from 'react'
-import { blue } from 'tailwindcss/colors'
+
 
 interface SidebarLinkProps{
     href: string;
